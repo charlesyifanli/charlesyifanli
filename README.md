@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my channel✨✨
 
-**charlesyifanli/charlesyifanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**charlesyifanli/charlesyifanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 
 - 🔭 I’m currently working as a student
 - 🌱 I’m currently learning coding and how to use git and github
